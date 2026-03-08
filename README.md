@@ -2,6 +2,7 @@
 
 這是一個幫助社員與參與者體驗 GitHub 協作流程的開源專案。在這個工作坊中，每個人都會在網站上新增一張屬於自己的個人介紹卡片！
 
+🔗 **專案網站：** [https://gdgoc-ntpu-member-wall.vercel.app/](https://gdgoc-ntpu-member-wall.vercel.app/)
 透過參與這個專案，你會學到：
 - 如何將 Repository **Fork** 到自己的帳號
 - 如何建立新的 **Branch**
